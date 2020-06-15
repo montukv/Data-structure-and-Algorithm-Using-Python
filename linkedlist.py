@@ -1,4 +1,4 @@
-#linked list using Python by montukeshwar Vaishnaw
+#linked list using Python by montukeshwar  Vaishnaw
 
 #class to store data and pointer
 class node:
