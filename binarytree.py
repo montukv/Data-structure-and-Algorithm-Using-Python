@@ -1,4 +1,4 @@
-#tree using python by Montukeshwar Vaishnaw
+#tree using python by Montukeshwar vaishnaw
 
 class node:
 	def __init__ (self,data = None):
