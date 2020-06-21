@@ -1,4 +1,4 @@
-#array in  python by montukeshwar vaishnaw
+#array in  p ython by montukeshwar vaishnaw
 def sum(a1,a2):
 	#addition of two array
 	result = []
