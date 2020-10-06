@@ -1,5 +1,6 @@
 # Data-structure-and-Algorithm-Using-Python
 this repository contain data structure and algorithm using python
 
-![Intro](static/ing/intro.jpg?raw=true "Introduction")
+![Introduction](https://github.com/montukv/Data-structure-and-Algorithm-Using-Python/tree/master/Static/img/intro.jpg?raw=true)
+
 
