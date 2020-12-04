@@ -1,5 +1,4 @@
 def linerSearch(num,key):
-	
 	for i in range(len(num)):
 		if key == num[i]:
 			return "found at " , i
