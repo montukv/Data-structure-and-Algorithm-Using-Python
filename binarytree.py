@@ -1,4 +1,4 @@
-#Binarytree using python by Montukeshwar vaishnaw m 
+#Binarytree using python by Montukeshwar vaishnaw 
 
 class node:
 	def __init__ (self,data = None):
