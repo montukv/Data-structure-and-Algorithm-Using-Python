@@ -5,7 +5,7 @@ def quickSort(a):
 		pivot = a.pop()
 
 	greater = []
-	lower = []
+	lower =  []
 
 	for i in a:
 		if i > pivot:
