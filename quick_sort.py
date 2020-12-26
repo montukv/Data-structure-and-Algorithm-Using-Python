@@ -1,3 +1,4 @@
+#by montukeshwar vaishnaw 
 def quickSort(a):
 	if len(a) <= 1:
 		return a
